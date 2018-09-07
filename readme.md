@@ -7,7 +7,7 @@ in an easier to use API. ryanwinchester/netsuite-php targets NetSuite WebService
 This package wraps ryanwinchester/netsuite-php in a standard Laravel 5 package and also adds a basic
 API for targeting NetSuite RESTlets
 
-##Installation
+## Installation
 
 ```
     composer require usulix/laravel-netsuite:dev-master
